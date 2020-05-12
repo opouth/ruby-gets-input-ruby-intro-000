@@ -3,4 +3,4 @@ name = gets.chomp
 def greeting(name)
   puts "Hi, you! Welcome to the wonderful world of Ruby programming."
 end
-greeting(name)
+greeting("you")
